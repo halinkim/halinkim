@@ -41,6 +41,7 @@
 
 
 ### PROJECTS
+- KMS 진힐라 노말/하드 자동 타이머
 https://github.com/halinkim/MapleJhillaTimer
-
+- 윈드브레이커 시뮬레이터
 https://github.com/halinkim/maplewbsimul
