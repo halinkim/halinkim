@@ -5,15 +5,15 @@
 > ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 > ![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?&style=for-the-badge&logo=LaTeX&logoColor=white)
 > ![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
-> ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
-> ![Rust](https://img.shields.io/badge/Rust-000000.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
+> ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
+> ![Rust](https://img.shields.io/badge/Rust-000000.svg?&style=for-the-badge&logo=Rust&logoColor=white)
 > 
-> ![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
-> ![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
-> ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
-> ![nodejs](https://img.shields.io/badge/nodedotjs-339933.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
-> ![threejs](https://img.shields.io/badge/threedotjs-000000.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
-> ![greensock](https://img.shields.io/badge/greensock-1572B6.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
+> ![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+> ![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+> ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+> ![nodejs](https://img.shields.io/badge/nodejs-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white)
+> ![threejs](https://img.shields.io/badge/threejs-000000.svg?&style=for-the-badge&logo=threedotjs&logoColor=white)
+> ![greensock](https://img.shields.io/badge/greensock-1572B6.svg?&style=for-the-badge&logo=greensock&logoColor=white)
 >
 > ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 >
