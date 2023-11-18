@@ -20,6 +20,7 @@
 > ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 >
 > - Use sometimes
+> 
 > ![GameMakerStudio2](https://img.shields.io/badge/GameMaker%20Studio2-93D343?style=for-the-badge&logoColor=white)
 >
 > - Used at least once
